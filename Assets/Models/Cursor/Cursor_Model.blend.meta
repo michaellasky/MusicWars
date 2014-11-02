@@ -1,0 +1,88 @@
+fileFormatVersion: 2
+guid: 7b1e73f4a72ae3e40824b7b91d50eb6f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: AEast
+    100002: ANorth
+    100004: ASouth
+    100006: AWest
+    100008: //RootNode
+    100010: Cylinder
+    400000: AEast
+    400002: ANorth
+    400004: ASouth
+    400006: AWest
+    400008: //RootNode
+    400010: Cylinder
+    2300000: AEast
+    2300002: ANorth
+    2300004: ASouth
+    2300006: AWest
+    2300008: Cylinder
+    3300000: AEast
+    3300002: ANorth
+    3300004: ASouth
+    3300006: AWest
+    3300008: Cylinder
+    4300000: AEast
+    4300002: ANorth
+    4300004: AWest
+    4300006: ASouth
+    4300008: Cylinder
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
